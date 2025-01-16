@@ -1,0 +1,15 @@
+name: expression_evaluator
+description: A Dart library to evaluate dynamic expressions with logical operators.
+version: 1.0.3
+repository: https://github.com/rashidrashiii/expression_evaluator.git
+
+environment:
+  sdk: ^3.2.6
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0
