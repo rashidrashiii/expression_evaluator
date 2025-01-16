@@ -15,7 +15,7 @@ To use this package in your Dart project, add the following dependency in your `
 
 ```yaml
 dependencies:
-  expression_evaluator: ^1.0.2
+  expression_evaluator: ^1.0.4
 ```
 
 ## Then run:
