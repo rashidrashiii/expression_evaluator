@@ -86,7 +86,7 @@ Evaluates an expression string and returns a boolean result.
 ---
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/rashidrashiii/expression_evaluator/blob/242c49ecc43e43018b3c5d304efbd364ab50a722/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/rashidrashiii/expression_evaluator/blob/95ec63cbb5e70e602f43372e600fa63ec68c340e/LICENSE) file for details.
 
 ---
 
