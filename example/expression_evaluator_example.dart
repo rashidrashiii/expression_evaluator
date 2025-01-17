@@ -10,9 +10,9 @@ void main() {
 
   var evaluator = ExpressionEvaluator(variables);
 
-  var expression1 = 'x > 5 AND y < 25'; // Should return true
-  var expression2 = 'z == "world" OR x == "10"'; // Should return true
-  var expression3 = 'x == 15 AND z != "hello"'; // Should return false
+  var expression1 = 'x > 5 AND y < 25'; // true
+  var expression2 = 'z == "world" OR x == "10"'; // true
+  var expression3 = 'x == 15 AND z != "hello"'; // false
 
   print('Expression 1: $expression1 => ${evaluator.evaluate(expression1)}');
   print('Expression 2: $expression2 => ${evaluator.evaluate(expression2)}');
