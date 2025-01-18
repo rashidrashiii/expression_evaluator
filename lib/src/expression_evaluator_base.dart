@@ -17,9 +17,6 @@ class ExpressionEvaluator {
   /// print(result); // true
   /// ```
   bool evaluate(String expression) {
-    // Remove extra spaces and handle OR and AND logic (case-insensitive)
-    expression = expression.replaceAll(RegExp(r'\s+'), '');
-
     // Replace OR and AND with || and && respectively for easier handling
     expression = expression.replaceAll('OR', '||').replaceAll('AND', '&&');
 
