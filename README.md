@@ -15,7 +15,7 @@ To use this package in your Dart project, add the following dependency in your `
 
 ```yaml
 dependencies:
-  expression_evaluator: ^1.0.6
+  expression_evaluator: ^1.0.7
 ```
 
 ## Then run:
@@ -88,11 +88,3 @@ Evaluates an expression string and returns a boolean result.
 # License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/rashidrashiii/expression_evaluator/blob/95ec63cbb5e70e602f43372e600fa63ec68c340e/LICENSE) file for details.
 
----
-
-# Author
-**Muhammed Rashid V**
-
-- Email: rashiofficialemail@gmail.com
-- LinkedIn: [Muhammed Rashid V](https://www.linkedin.com/in/muhammed-rashid-v)
-- GitHub: [rashidrashiii](https://github.com/rashidrashiii)
